@@ -17,7 +17,7 @@
   <?php if (!isset($_GET['submitted'])) { ?>
   
   <h1>Play with the HTML form</h1>
-  <form action="/form">
+  <form action="/index.php">
     <input type="hidden" name="submitted" value="yes">
     <p>
       <label for="my-radio-yes">radio Yes: </label>
