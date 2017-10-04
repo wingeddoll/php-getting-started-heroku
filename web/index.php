@@ -31,12 +31,12 @@ Hello
     <textarea name="my-text">Тут будет текст</textarea>
     <input type="text" name="erunda"><br>
     Выбери что-нибудь, всё равно что, главное выбери:<br>
-    <select name="my-select" required>
+    <!-- <select name="my-select" required>
       <option value=1 selected>Выбрать нужно обязательно</option>
       <option value=2>Что-нибудь раз</option>
       <option value=3>Что-нибудь два</option>
       <option value=4>Что-нибудь три</option>
-    </select>
+    </select> -->
   </form>
 
   <?php } ?>
