@@ -11,6 +11,7 @@ Hello
   <?php if (isset($_GET['submitted'])) { ?>
     <h1>The server had accepted:</h1>
     <p>radio: <?php echo htmlspecialchars($_GET['radio']); ?></p>
+    <p>my-text: <?php echo htmlspecialchars($_GET['my-text']); ?></p>
     <p>Try again? <a href="/index.php">Yes!</a></p>
   <?php } ?>
 
