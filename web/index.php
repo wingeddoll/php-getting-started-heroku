@@ -27,6 +27,7 @@ Hello
     <br>
     <input type="submit" value="Submit">
     <input type="reset" value="Clear">
+    <input type="textarea" value="textarea">
   </form>
 
   <?php } ?>
