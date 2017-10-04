@@ -27,7 +27,7 @@ Hello
     <br>
     <input type="submit" value="Submit">
     <input type="reset" value="Clear">
-    <input type="textarea" value="textarea">
+    <input type="textarea" value="Tut text">
   </form>
 
   <?php } ?>
